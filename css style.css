@@ -1,0 +1,65 @@
+#Gomatics {
+  background-color: rgb(243, 218, 201);
+  text-align: center;
+  
+}
+.sub {
+  background-color: rgba(192, 145, 186, 0.774);
+  display: inline-block;
+  width: 33%;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h12 {
+  color: whitesmoke;
+}
+
+p {
+  color: black;
+  text-align: center;
+}
+#header {
+  font-size: 60px;
+  text-align: center;
+  margin: 60px;
+  padding: 30px;
+  border: chocolate solid;
+  border-style: double;
+  background-image: url(geography-banners-stock-illustrations-1505-geog.jpeg)  ;
+}
+
+
+.girls { font-size: 30px;
+  text-align: center;
+  margin: 60px;
+  padding: 30px;
+
+}
+p,
+div {
+  font-size: large;
+}
+caption {
+  font-size: 2em; 
+  font-weight: bold;
+  color: #a568b1; 
+  margin-bottom: 15px; 
+}
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+th {
+  background-color: bisque;
+}
+td {
+  background-color: azure;
+}
